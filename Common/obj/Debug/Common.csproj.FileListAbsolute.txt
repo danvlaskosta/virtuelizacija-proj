@@ -1,0 +1,12 @@
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\Virtuelizacija-proj\KancelarijskiSenzorWCF\Common\bin\Debug\Common.dll
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\Virtuelizacija-proj\KancelarijskiSenzorWCF\Common\bin\Debug\Common.pdb
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\Virtuelizacija-proj\KancelarijskiSenzorWCF\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\Virtuelizacija-proj\KancelarijskiSenzorWCF\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\Virtuelizacija-proj\KancelarijskiSenzorWCF\Common\obj\Debug\Common.dll
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\Virtuelizacija-proj\KancelarijskiSenzorWCF\Common\obj\Debug\Common.pdb
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\KancelarijskiSenzorWCF\Common\bin\Debug\Common.dll
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\KancelarijskiSenzorWCF\Common\bin\Debug\Common.pdb
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\KancelarijskiSenzorWCF\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\KancelarijskiSenzorWCF\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\KancelarijskiSenzorWCF\Common\obj\Debug\Common.dll
+C:\Users\lenovo\OneDrive - Telekomunikacije RS a.d. Banja Luka\Desktop\KancelarijskiSenzorWCF\Common\obj\Debug\Common.pdb
